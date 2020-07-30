@@ -6,5 +6,5 @@ Em meu tempo livre, gosto muito de jogar Football (🏈), assistir filmes (🎞�
 
 Caso queira saber mais sobre mim?
 
-
+[![Facebook Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://youtube.com/c/FelipeFialhoDev)](https://youtube.com/c/FelipeFialhoDev)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renato-l%C3%B4bo-72b01b4b/)](https://www.linkedin.com/in/renato-l%C3%B4bo-72b01b4b/)

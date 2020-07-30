@@ -6,5 +6,5 @@ Em meu tempo livre, gosto muito de jogar Football (🏈), assistir filmes (🎞�
 
 Quer saber mais sobre mim?
 
-[![Facebook Badge](https://img.shields.io/badge/-facebook-blue?style=flat-square&labelColor=blue&logo=facebook&logoColor=white&link=https://www.facebook.com/renato.lobo.779)
+![Facebook Badge](https://img.shields.io/badge/-facebook-blue?style=flat-square&labelColor=blue&logo=facebook&logoColor=white&link=https://www.facebook.com/renato.lobo.779)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renato-l%C3%B4bo-72b01b4b/)](https://www.linkedin.com/in/renato-l%C3%B4bo-72b01b4b/)

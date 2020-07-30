@@ -6,5 +6,5 @@ Em meu tempo livre, gosto muito de jogar Football (🏈), assistir filmes (🎞�
 
 Caso queira saber mais sobre mim?
 
-<img src="https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT"/>
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renato-l%C3%B4bo-72b01b4b/)](https://www.linkedin.com/in/renato-l%C3%B4bo-72b01b4b/)

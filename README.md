@@ -1,8 +1,8 @@
 ### Oi Pessoal! 😁
 
-Meu nome e Renato Lôbo e sou do Brazil (🇧🇷). Sempre trabalhei na parte gerencial, no entanto agora estou começando a entrar nesse mundo maravilho que e desenvolvimento, Dentre os estudos, estou focando em React,JS, Ruby, Rails. No meu GitHub vai encontrar a evolução do meu aprendizado,desde o momento incial com codigos bem simples, até o momento futuro com aplicações completas.
+Meu nome é Renato Lôbo e sou do Brasil (🇧🇷). Sempre trabalhei na parte gerencial, no entanto agora estou começando a entrar nesse mundo maravilhoso que é  desenvolvimento. Dentre os estudos, estou focando em React, JS, Ruby, Rails. No meu GitHub vai encontrar a evolução do meu aprendizado, desde o momento incial com códigos bem simples, até aplicações completas (futuro).
 
-Em meu tempo livre, gosto muito de jogar Football (🏈), assistir filmes (🎞️) e seriados (📺), ler bons livros (📚), escutar boas musicas (🎵) tomar cerveja com pessoas de meu agrado (🍺) e principalmente estar com meu filho.
+Em meu tempo livre, gosto muito de jogar Football (🏈), assistir filmes (🎞️) e seriados (📺), ler bons livros (📚), escutar boas músicas (🎵) tomar cerveja com pessoas de meu agrado (🍺) e principalmente estar com meu filho.
 
 Caso queira saber mais sobre mim?
 
